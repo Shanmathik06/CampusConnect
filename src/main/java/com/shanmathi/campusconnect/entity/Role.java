@@ -1,4 +1,7 @@
 package com.shanmathi.campusconnect.entity;
 
-public class Role {
+public enum Role {
+    ADMIN,
+    ORGANIZER,
+    STUDENT
 }
